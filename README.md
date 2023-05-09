@@ -1,1 +1,1 @@
-i assume everyone know how to run an angular project 
+i assume everyone knows how to run an angular project 
